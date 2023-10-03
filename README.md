@@ -1,3 +1,10 @@
 # Pelatihan Arduino
+Repositori ini diperuntukan untuk Pelatihan Arduino yang diadakan oleh Himpunan Mahasiwa Elektro - Departemen Pendidikan, Penelitian, dan Pengembangan
 
-this repo contain: Arduino source code, wiring diagram, install arduino lib, arduino ide download link
+Ada beberapa software yang perlu di unduh dan di install oleh peserta:
+
+Arduino IDE
+https://www.arduino.cc/en/software (kalau sudah terinstall bisa dihiraukan)
+
+ESP library for Arduino IDE 
+https://github.com/esp8266/Arduino
