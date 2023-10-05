@@ -1,7 +1,7 @@
 # Pelatihan Arduino
 Repositori ini diperuntukan untuk Pelatihan Arduino yang diadakan oleh Himpunan Mahasiwa Elektro - Departemen Pendidikan, Penelitian, dan Pengembangan
 
-Ada beberapa software yang perlu di unduh dan di install oleh peserta:
+Berikut beberapa file yang akan digunakan pada pelatihan ini:
 
 Arduino IDE
 https://www.arduino.cc/en/software (Tidak perlu di install kalau sudah terinstall)
