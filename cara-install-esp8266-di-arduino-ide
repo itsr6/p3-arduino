@@ -7,6 +7,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Jika sudah, klik Tools > Board > Boards Manager
 Pada input pencarian ketik esp8266
+![Uploading image.png…]()
 
 Pilih versi terbaru yang tersedia, kemudian klik Install
 Setelah instalasi selesai, maka Arduino IDE sudah bisa digunakan untuk membuat program ESP8266
