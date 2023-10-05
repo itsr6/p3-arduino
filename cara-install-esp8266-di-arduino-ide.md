@@ -11,3 +11,12 @@ Pada input pencarian ketik esp8266
 
 Pilih versi terbaru yang tersedia, kemudian klik Install
 Setelah instalasi selesai, maka Arduino IDE sudah bisa digunakan untuk membuat program ESP8266
+
+
+
+
+
+
+
+
+Source : https://iotstudio.labs.telkomuniversity.ac.id/cara-install-arduino-ide-untuk-esp8266/
